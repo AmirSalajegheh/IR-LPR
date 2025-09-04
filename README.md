@@ -71,7 +71,7 @@ Open `training.ipynb` in Jupyter Notebook or Google Colab and follow the steps t
 
 After running `main.py`, results will be saved in the `Data/` folder.
 
-img src="Data/output.jpg" width="300">  
+<img src="Data/output.jpg" width="300">  
 
 ---
 
