@@ -17,7 +17,9 @@ Each image is labeled with **bounding boxes around license plates** and the digi
 
 ### Sample Images from Dataset:
 
-<img src="Data/sample1.jpg" width="300">    <img src="Data/sample2.jpg" width="300">      <img src="Data/sample3.jpg" width="300">  
+<img src="Data/sample1.jpg">    
+<img src="Data/sample2.jpg">      
+<img src="Data/sample3.jpg">  
 
 The dataset provides a wide variety of conditions, including **daytime/nighttime**, different **angles**, and **varied lighting**, making it ideal for training a robust model.
 
